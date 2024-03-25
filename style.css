@@ -1,0 +1,209 @@
+* {
+  margin: 0px;
+  padding: 0;
+}
+
+.main_part {
+  display: flex;
+
+}
+
+.top_logo {
+  position: absolute;
+  top: 40px;
+  color: white;
+  margin-left: 34%;
+}
+
+.healithy {
+  position: absolute;
+  top: 85px;
+  color: #1d5dec;
+  margin-left: 43%;
+  font-size: 2.2rem;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  height: 300px;
+  flex-wrap: wrap;
+}
+
+.color1 {
+  position: absolute;
+  top: 145%;
+  text-align: center;
+  padding-left: 180px;
+  width: 90%;
+  height: 30%;
+  color: white;
+}
+
+.med {
+  background-color: #1d5dec;
+  font-size: 130px;
+  height: 90px;
+}
+
+.color2 {
+  position: absolute;
+  top: 174.6%;
+  text-align: center;
+  padding-left: 280px;
+  width: 85%;
+  height: 10%;
+  color: white;
+}
+
+.let {
+  background-color: rgb(31, 190, 214);
+  font-size: 60px;
+  word-spacing: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.column1 {
+  margin-top: 10.1%;
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 380px;
+}
+
+.column2 {
+  margin-top: 10.1%;
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 380px;
+}
+
+.img {
+  padding-left: 13%;
+  margin-top: -10px;
+  display: flex;
+}
+
+.right_line {
+  background-color: #1d5dec;
+  height: 310px;
+  width: 15px;
+  margin-top: 15px;
+}
+
+.our {
+  background-color: #1d5dec;
+  height: 15.1%;
+  width: 100%;
+  font-size: 40px;
+  padding-left: 36%;
+  padding-top: 6px;
+  color: white;
+  letter-spacing: 10px;
+}
+
+.About {
+  padding-left: 90px;
+  margin-top: -33px;
+}
+
+.abo {
+  margin-top: -15px;
+}
+
+.black_line {
+  margin-left: 90px;
+  margin-top: 22px;
+  background-color: rgba(0, 0, 0, 0.553);
+  height: 2px;
+  width: 80%;
+}
+
+.covid {
+  padding-right: 50px;
+  text-align: right;
+  color: rgb(31, 190, 214);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.column3 {
+  color: #1d5dec;
+  text-align: center;
+  float: left;
+  width: 19%;
+  padding: 10px;
+  height: 300px;
+}
+
+.contact {
+  text-align: left;
+  padding-left: 90px;
+  padding-top: 20px;
+  font-size: 25px;
+}
+
+.website {
+  padding-top: 15px;
+  padding-left: 30px;
+}
+
+.column4 {
+  color: #1d5dec;
+  float: left;
+  width: 19%;
+  padding: 10px;
+  height: 150px;
+  /* Should be removed. Only for demonstration */
+}
+
+.column5 {
+  color: #1d5dec;
+  float: left;
+  width: 19%;
+  padding: 10px;
+  height: 300px;
+  /* Should be removed. Only for demonstration */
+}
+
+.COVID {
+  text-align: center;
+  padding-right: 120px;
+}
+
+.icons {
+  display: flex;
+  padding-top: 110px;
+}
+
+.phone {
+  text-align: center;
+  padding-right: 50px;
+}
+
+.column6 {
+  float: left;
+  width: 43%;
+  padding: 10px;
+  height: 300px;
+  /* Should be removed. Only for demonstration */
+}
+
+.Lorem_Ipsum {
+  text-align: right;
+  padding-right: 80px;
+  color: white;
+}
+
+.qr {
+  position: absolute;
+  top: 263.4%;
+  right: 24%;
+
+}
